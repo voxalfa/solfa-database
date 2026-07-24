@@ -6,6 +6,8 @@
 [#] verses={1}
 [#] description="The national anthem of Madagascar"
 [#] release={1958}
+[#] tags={"anthem", "madagascar"}
+[#] language="mg"
 
 [$] key="Bb" | time={4,4} | bpm={90}
 

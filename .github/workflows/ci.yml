@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "solfa/**"
+  pull_request:
+    branches: [main]
+    paths:
+      - "solfa/**"
+
+jobs:
+  voxalfa-checks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download Voxalfa Nightly
+        uses: robinraju/release-downloader@v1
+        with:
+          repository: "voxalfa/voxalfa"
+          tag: "nightly"
+          fileName: "voxalfa-linux-x86_64"
+          out-file-path: "./bin"
+
+      - name: Setup Voxalfa Executable
+        run: |
+          chmod +x ./bin/voxalfa-linux-x86_64
+          mv ./bin/voxalfa-linux-x86_64 ./bin/voxalfa
+          echo "$(pwd)/bin" >> $GITHUB_PATH
+
+      - name: Run Voxalfa Check
+        run: voxalfa check "solfa/**/*"
+
+      - name: Run Voxalfa Format Check
+        run: voxalfa format "solfa/**/*" --check

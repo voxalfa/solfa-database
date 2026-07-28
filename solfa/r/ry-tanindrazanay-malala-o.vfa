@@ -1,4 +1,4 @@
-;; @version 1.0
+;; @version 0.1.0-alpha
 
 [#] title="Ry Tanindrazanay Malala ô!"
 [#] author={"Norbert Raharisoa","Pasteur Rahajason"}
@@ -136,7 +136,7 @@
 
 [A] |m                  :m                  !r                  :`s           .,f`  ||
 
-[1] A_                  nao                 tsy                 mia_           @@
+[1] A_                  nao                 tsy                 mia@2_              @@
 
 ++
 
@@ -165,8 +165,7 @@
 
 --
 
-[$] key={Bb}
-[$] markers={S}
+[$] key={Bb} | navigation={S}
 
 [S] :s-1                ||
 [T] :s-1                ||
@@ -317,7 +316,7 @@
 
 [#] ending={1}
 
-[$] markers={DC:4}
+[$] navigation={DS:4}
 
 [S] |d                  :-                  !-                  :s-1                ||
 [T] |m                  :-                  !-                  :s-1                ||

@@ -2,14 +2,13 @@
 
 [#] title="Ry Tanindrazanay Malala ô!"
 [#] author={"Norbert Raharisoa","Pasteur Rahajason"}
-[#] voices={S,T,A,B}
-[#] verses={1}
 [#] description="The national anthem of Madagascar"
+[#] verses={1}
 [#] release={1958}
-[#] tags={"anthem","madagascar"}
 [#] language="mg"
+[#] tags={"anthem","madagascar"}
 
-[$] key={Bb} | time={4,4} | tempo={90}
+[$] key={Bb} | time={4,4} | tempo={110} | voices={S,T,A,B}
 
 ---
 
@@ -22,10 +21,10 @@
 
 --
 
-[S] |d                  :d            .,d   !d            .,s-1 :d            .,r   ||
-[T] |m-1                :m-1          .,m-1 !m-1          .,m-1 :m-1          .,s-1 ||
-[A] |s-1                :s-1          .,s-1 !s-1          .,s-1 :s-1          .,s-1 ||
-[B] |d-1                :d-1          .,d-1 !d-1          .,d-1 :d-1          .,d-1 ||
+[S] |d+1                :`d           .,d`  !d            .,s-1 :d            .,r   ||
+[T] |m-1                :`m-1         .,m-1`!m-1          .,m-1 :m-1          .,s-1 ||
+[A] |s-1                :`s-1         .,s-1`!s-1          .,s-1 :s-1          .,s-1 ||
+[B] |d-1                :`d-1         .,d-1`!d-1          .,d-1 :d-1          .,d-1 ||
 
 [1] Ta_                 nin@2_              dra_           za_  nay            Ma_  @@
 

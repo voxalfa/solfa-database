@@ -164,7 +164,7 @@
 
 --
 
-[$] key={Bb} | mark={S}
+[$] mark={S} | key={Bb}
 
 [S] :s-1                ||
 [T] :s-1                ||

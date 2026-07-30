@@ -1,0 +1,66 @@
+;; @version 0.1.0-alpha
+
+[#] title="TSAROANAY TOKOA IZAO"
+[#] author="D.O. Jones (1880-1951)"
+[#] composer="R.H. Earnshaw"
+[#] meter={8,8,8,8}
+[#] language="mg"
+[#] tags="ffpm"
+
+[$] key={F} | time={3,4} | tempo={90} | voices={S,A,T,B}
+
+---
+
+[S] |m      :m      :m      |m      :-      :m      ||
+[A] |d      :d      :d      |d      :-      :d      ||
+[T] |s      :s      :s      |l      :-      :m      ||
+[B] |d      :d      :d      |l-1    :-      :l-1    ||
+
+--
+
+[S] |s      :-      :f      |m      :-      :-      ||
+[A] |r      :-      :t-1    |d      :-      :-      ||
+[T] |`r     :s`     :s      |s      :-      :-      ||
+[B] |t-1    :-      :s-1    |d      :-      :-      ||
+
+==
+
+[S] |d      :d      :t-1    |d      :-  .r  :m      ||
+[A] |d      :s-1    :s-1    |s-1    :-      :d      ||
+[T] |l      :s      :f      |`m     :-  .f` :s      ||
+[B] |f      :m      :r      |d      :-      :d      ||
+
+--
+
+[S] |r      :-      :d      |r      :-      :-      ||
+[A] |l-1    :-      :l-1    |t-1    :-      :-      ||
+[T] |f      :-      :m      |s      :-      :-      ||
+[B] |f-1    :-      :l-1    |s-1    :-      :-      ||
+
+--
+
+[S] |m      :m      :m      |m      :-      :m      ||
+[A] |d      :d      :r      |d      :-      :d      ||
+[T] |s      :s      :si     |l      :-      :ta     ||
+[B] |d      :d      :t-1    |l-1    :d      :d      ||
+
+--
+
+[S] |l      :-      :s      |f      :-      :-      ||
+[A] |d      :-      :di     |r      :-      :-      ||
+[T] |l      :-      :l      |l      :-      :-      ||
+[B] |f      :-      :m      |r      :-      :-      ||
+
+==
+
+[S] |r      :s      :f      |m      :-      :d      ||
+[A] |t-1    :d      :r      |d      :-      :l-1    ||
+[T] |s      :s      :s      |s      :-      :f  .m  ||
+[B] |s-1    :d      :t-1    |d      :-      :f-1    ||
+
+--
+
+[S] |d      :-      :t-1    |d      :-      :-      ||
+[A] |s-1    :-      :s-1    |s-1    :-      :-      ||
+[T] |`r     :-  .m` :f      |m      :-      :-      ||
+[B] |s-1    :-      :s-1    |d      :-      :-      ||

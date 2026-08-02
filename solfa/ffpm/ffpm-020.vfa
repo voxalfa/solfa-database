@@ -3,9 +3,10 @@
 [#] title="TSAROANAY TOKOA IZAO"
 [#] author="D.O. Jones (1880-1951)"
 [#] composer="R.H. Earnshaw"
+[#] description="FFPM 20"
 [#] meter={8,8,8,8}
+[#] tags={"evangelic","ffpm"}
 [#] language="mg"
-[#] tags="ffpm"
 
 [$] key={F} | time={3,4} | tempo={90} | voices={S,A,T,B}
 

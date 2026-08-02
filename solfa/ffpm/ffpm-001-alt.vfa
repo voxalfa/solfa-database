@@ -1,10 +1,10 @@
 ;; @version 0.1.0-alpha
 
-[#] title="ANDRIANANAHARY, MASINA INDRINDR "
-[#] author="Nad. J. A. Houlder, 1844-1932"
+[#] title="ANDRIANANAHARY, MASINA INDRINDRA"
+[#] author="Nad. J. A. Houlder (1844-1932)"
 [#] composer="A. Stone"
 [#] description="FFPM 1"
-[#] meter={12,13,11}
+[#] meter={12,13,11,11}
 [#] tags={"evangelic","ffpm"}
 [#] language="mg"
 

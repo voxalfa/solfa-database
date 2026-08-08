@@ -1,0 +1,385 @@
+;; @version 0.1.0-alpha
+
+[#] title="ISAORANAY JEHOVAH TEMPONAY"
+[#] description="Antema 16"
+[#] verses={1}
+[#] language="mg"
+[#] tags={"antema","evangelic"}
+
+[$] key={Ab} | time={4,4} | tempo={80} | voices={S,A,T,B}
+
+---
+
+[S] :         .s-1      ||
+[A] :         .s-1      ||
+[T] :         .s-1      ||
+[B] :         .s-1      ||
+
+[1] ~         I_        @@
+
+--
+
+[S] |d            .,d   :d        .r        !m            .,m   :m        .s        ||
+[A] |                   :         .s-1      !d            .,d   :d        .t-1      ||
+[T] |                   :                   !                   :         .r        ||
+[B] |                   :                   !                   :         .s-1      ||
+
+[1] sao_           ra_  nay,      i_        sao_           ra_  nay       Je_       @@
+
+--
+
+[S] |s            .,s   :s        .f        !m                  :-        .m        ||
+[A] |d            .,s-1 :s-1      .s-1      !s-1                :-        .s-1      ||
+[T] |m            .,m   :m        .r        !d                  :-        .         ||
+[B] |d            .,d   :d        .d        !d                  :-        .         ||
+
+[1] ho_            vah  Tompo_    nay       I@2_                          @@
+
+--
+
+[S] |f            .,m   :m        .d        !d            .,d   :d        .m        ||
+[A] |l-1          .,s-1 :s-1      .s-1      !l-1          .,s   :s-1      .s-1      ||
+[T] |                   :         .m        !f            .,m   :m        .d        ||
+[B] |                   :                   !                   :         .d-1      ||
+
+[1] sao_           ra_  nay,      i_        sao_           ra_  nay       A_        @@
+
+--
+
+[S] |r            .,d   :t-1      .l-1      !s-1                :-        .s-1      ||
+[A] |s-1          .,l-1 :s-1      .fi-1     !s-1                :-        .s-1      ||
+[T] |t-1          .,r   :r        .d        !t-1                :-        .t-1      ||
+[B] |r-1          .,r-1 :r-1      .r-1      !s-1                :-        .s-1      ||
+
+[1] ndri_          a_   ma_       ni_       tray@2                        Fa_       @@
+
+--
+
+[S] |f                  :t-1                !d                  :-        .m        ||
+
+[1] be                  fi_                 tia@2                         ny        @@
+
+++
+
+[A] |s-1          .,s-1 :s-1      .s-1      !s-1          .,s-1 :s-1      .s-1      ||
+[T] |t-1          .,t-1 :r        .r        !m            .,m   :m        .d        ||
+[B] |s-1          .,s-1 :s-1      .s-1      !s-1          .,s-1 :s-1      .d        ||
+
+[1] be             fi_  tia       ny        Tom_           po_  nay,      ny        @@
+
+--
+
+[S] |s                  :f                  !m                  :-        .m        ||
+
+[1] To_                 mpo_                nay@2                         Mpa_      @@
+
+++
+
+[A] |s-1          .,s-1 :s-1      .s-1      !s-1                :-        .s-1      ||
+[T] |r        .t-1      :r        .t-1      !d                  :-        .d        ||
+[B] |t-1      .s-1      :t-1      .s-1      !d                  :-        .d-1      ||
+
+[1] Tompo               ti        a_        nay@2                         Mpa_      @@
+
+--
+
+[S] |f        .m        :r        .d        !t-1      .r        :d        .l        ||
+[A] |s-1      .s-1      :l-1      .l-1      !s-1      .f-1      :m-1      .d        ||
+[T] |t-1      .d        :l-1      .r        !r        .t-1      :d        .r        ||
+[B] |r-1      .m-1      :f-1      .fi-1     !s-1      .si       :l-1      .f-1      ||
+
+[1] nja_      ka        tia,      Mpa_      min_      dra_      fo        De_       @@
+
+--
+
+[S] |s            .,m   :f        .r        !d                  :-        .d        ||
+[A] |d            .,s-1 :s-1      .s-1      !m-1                :-        .         ||
+[T] |m            .,d   :r        .t-1      !d                  :-        .         ||
+[B] |s-1          .,s-1 :s-1      .s-1      !d                  :-        .         ||
+
+[1] rai_           na   Hi_       a_        nao.@2                        I_        @@
+
+--
+
+[S] |m            .,m   :m                  !m        .m        :-        .m        ||
+
+[1] sao_           ra_  nay                 i_        zao,@2              i_        @@
+
+++
+
+[A] |                   :         .si-1     !l-1          .,l-1 :l-1      .         ||
+[T] |                   :         .t-1      !d            .,d   :d        .         ||
+[B] |                   :         .m-1      !l-1          .,l-1 :l-1      .         ||
+
+[1] ~@2                           I_        sao_           ra_  nay       ~         @@
+
+--
+
+[S] |s            .,s   :s        .s        !s                  :-        .s        ||
+
+[1] sao_           ra_  nay       i_        zao@2                         Fa        @@
+
+++
+
+[A] |                   :         .t-1      !d            .,d   :d        .s-1      ||
+[T] |                   :         .r        !m            .,m   :m        .m        ||
+[B] |                   :         .s-1      !d            .,d   :d        .d-1      ||
+
+[1] ~@2                           I_        sao_           ra_  na        Fa        @@
+
+--
+
+[S] |f        .m        :r        .d        !t-1      .r        :d        .l        ||
+[A] |s-1      .s-1      :l-1      .l-1      !s-1      .f-1      :m-1      .d        ||
+[T] |r        .d        :l-1      .r        !r        .t        :d        .r        ||
+[B] |r-1      .m-1      :f-1      .fi-1     !s-1      .si-1     :l-1      .f-1      ||
+
+[1] be        fi_       an_       tra       Hi_       a_        nao       Mpan_     @@
+
+--
+
+[S] |s            .,m   :f        .r        !d                  :-                  ||
+[A] |d            .,s-1 :s-1      .f-1      !m-1                :-        .s-1      ||
+[T] |m            .,d   :r        .t-1      !d                  :-        .m-1      ||
+[B] |s-1          .,s-1 :s-1      .s-1      !d                  :-                  ||
+
+[1] nja_           ka   be        fi_       tia                 I_                  @@
+
+--
+
+[S] |-                  :-                  !-                  :-        .d        ||
+[A] |l-1          .,s-1 :s-1      .s-1      !l-1          .,s-1 :s-1      .m-1      ||
+[T] |f            .,m   :m        .m        !f            .,m   :m        .d        ||
+[B] |-                  :-                  !-                  :-        .d        ||
+
+[1] saora_              (nay, i)_           saor_               nay       Ny        @@
+
+--
+
+[S] |m                  :r                  !d                  :-                  ||
+[A] |s-1                :f-1                !m-1                :-        .m-1      ||
+[T] |d                  :t-1                !d                  :-        .s-1      ||
+[B] |s-1                :s-1                !d-1                :-                  ||
+
+[1] To_                 mpo_                nay                 I_                  @@
+
+--
+
+[S] |-                  :-                  !-                  :-        .d        ||
+[A] |f-1          .,m-1 :m-1      .m-1      !f-1          .,m-1 :m-1      .m-1      ||
+[T] |l-1          .,s-1 :s-1      .s-1      !l-1          .,s-1 :s-1      .d        ||
+[B] |-                  :-                  !-                  :-        .d        ||
+
+[1] saora_              (nay i)_            saora_              (nay ny)  @@
+
+--
+
+[S] |m                  :-                  !r                  :-                  ||
+[A] |s-1                :-                  !f-1                :-                  ||
+[T] |d                  :-                  !t-1                :-                  ||
+[B] |s-1                :-                  !s-1                :-                  ||
+
+[1] To@2_                                   mpo@2_                                  @@
+
+--
+
+[$] mark={F}
+
+[S] |d                  :-                  !-                  ||
+[A] |m-1                :-                  !-                  ||
+[T] |d                  :-                  !-                  ||
+[B] |d-1                :-                  !-                  ||
+
+[1] nay@3                                                       @@
+
+==
+
+[$] key={Db} | dynamics={p}
+
+[S] :s                  ||
+[A] :m                  ||
+[T] :m                  ||
+[B] :m                  ||
+
+[1] Ny                  @@
+
+--
+
+[S] |s                  :l        .s        !d+1                :-        .d+1      ||
+[A] |m                  :f        .m        !m                  :-        .m        ||
+[T] |                   :                   !                   :                   ||
+[B] |                   :                   !                   :                   ||
+
+[1] ta_                 ny        a_        ty@2                          ma_       @@
+
+--
+
+[S] |d+1                :r+1      .d+1      !d+1      .t        :t        .l        ||
+[A] |m                  :f        .m        !m        .r        :r        .f        ||
+[T] |                   :                   !                   :                   ||
+[B] |                   :                   !                   :                   ||
+
+[1] fi_                 ta_       hi_       a_        na        Ny        @@
+
+--
+
+[S] |`s       .l`       :f        .s        !`m       .d+1      :l`       .l        ||
+[A] |`m       .f`       :r        .m        !`d       .m        :r`       .d        ||
+[T] |                   :                   !                   :                   ||
+[B] |                   :                   !                   :                   ||
+
+[1] la@2_               nitra     a_        ry@3                          ma_       @@
+
+--
+
+[$] dynamics={mp:3.5}
+
+[S] |s                  :fi           .,fi  !s                  :-        .s        ||
+[A] |t-1                :l-1          .,l-1 !t-1                :-        .r        ||
+[T] |                   :                   !                   :         .t        ||
+[B] |                   :                   !                   :                   ||
+
+[1] moa_                ka             ny   soa@2                         Ka        @@
+
+--
+
+[S] |s                  :s        .s        !s                  :-        .s        ||
+[A] |`r       .f`       :m        .r        !m                  :-        .m        ||
+[T] |`t       .r+1`     :d+1      .t        !d+1                :-        .d+1      ||
+[B] |                   :                   !                   :                   ||
+
+[1] mi_                 sy        to_       koa@2                         ny        @@
+
+--
+
+[S] |`l       .d+1`     :t        .l        !`l       .s`       :s        .m        ||
+[A] |`f       .l`       :s        .f        !`f       .m`       :m        .d        ||
+[T] |d+1                :d+1      .d+1      !d+1                :d+1      .ta       ||
+[B] |                   :                   !                   :                   ||
+
+[1] vo_                 ka_       tra       tsa_                ra        Je_       @@
+
+--
+
+[S] |f                  :l            .,l   !`s       .d+1`     :s        .f        ||
+[A] |d                  :d            .,d   !d                  :d        .r        ||
+[T] |l                  :f            .,f   !m                  :m        .l        ||
+
+[B] |                   :                   !                   :         .f        ||
+
+[1] ho_                 vah            Tsi_ to_                 ha        ma_       @@
+
+--
+
+[S] |m                  :r            .,r   !d                  ||
+[A] |d                  :t-1          .,t-1 !d                  ||
+[T] |s                  :f            .,f   !m                  ||
+[B] |s                  :s-1          .,s-1 !d                  ||
+
+[1] na_                 mbina          a_   nay.                @@
+
+==
+
+[$] mark={S} | dynamics={f}
+
+[S] :         .s        ||
+[A] :         .f        ||
+[T] :         .d+1      ||
+[B] :         .d        ||
+
+[1] De_       @@
+
+--
+
+[S] |s        .m        :s        .m        !s        .d+1      :m+1      .d+1      ||
+[A] |m        .d        :m        .d        !m        .m        :s        .m        ||
+[T] |d+1      .d+1      :d+1      .d+1      !d+1      .d+1      :d+1      .s        ||
+[B] |d        .d        :d        .d        !d        .d        :d        .d        ||
+
+[1] rai_      na        ny        a_        na_       ra_       nao       A_        @@
+
+--
+
+[S] |t        .r        :f        .l        !`l                 :s        .s`       ||
+[A] |r        .t-1      :r        .f        !`f                 :m        .m`       ||
+[T] |s        .s        :t        .d+1      !d+1                :         .d+1      ||
+[B] |s        .s        :s        .s        !d                  :         .d        ||
+
+[1] ndri_     a_        ma_       ni_       tray,               He!       @@
+
+--
+
+[S] |s        .m        :s        .m        !s        .d+1      :m+1      .d+1      ||
+[A] |m        .d        :m        .d        !m        .m        :s        .m        ||
+[T] |d+1      .d+1      :d+1      .d+1      !d+1      .d+1      :d+1      .s        ||
+[B] |d        .d        :d        .d        !d        .d        :d        .d        ||
+
+[1] fa_       ly        i_        za_       hay       i_        zao       ma_       @@
+
+--
+
+[S] |t        .r+1      :l        .t        !s                  :-        .s        ||
+[A] |r        .t-1      :d        .r        !t-1                :-        .         ||
+[T] |s        .s        :fi       .fi       !s                  :-        .         ||
+[B] |r        .r        :r        .r        !s                  :-        .         ||
+
+[1] nao       ny        hi_       ra_       nay@2                         I_        @@
+
+--
+
+[S] |`t           .,d+1 :r+1`     .s        !s                  :-        .s        ||
+
+[1] sao@3_                        ra_       nay@2                         I_        @@
+
+++
+
+[A] |                   :         .s        !`r           .,m   :f`       .f        ||
+[T] |                   :         .s        !`t           .,d+1 :r+1`     .r        ||
+[B] |                   :                   !                   :                   ||
+
+[1] ~@2                           I_        sao@3_                        ra_       @@
+
+--
+
+[S] |`d+1         .,r+1 :m+1`     .d+1      !d+1                :-        .d        ||
+
+[1] sao@3_                        ra_       nay@2                         A_        @@
+
+++
+
+[A] |`m           .,f   :s`       .m        !m            .,f   :s        .m        ||
+[T] |d+1                :-        .s        !d+1          .,r+1 :m+1      .s        ||
+[B] |                   :                   !                   :         .d        ||
+
+[1] nay                 I_        saora_    nay            A_   @@
+
+--
+
+[S] |d+1      .l        :d+1      .l        !s        .d+1      :m+1      .d+1      ||
+[A] |f        .f        :f        .f        !m        .m        :s        .m        ||
+[T] |l        .d+1      :l        .d+1      !d+1      .d+1      :d+1      .d+1      ||
+[B] |f        .f        :f        .f        !d        .d        :d        .d        ||
+
+[1] ndr_      a_        na_       na_       ha_       ri_       nay       Mpa_      @@
+
+--
+
+[$] ending={1} | jump={DS}
+
+[S] |r+1      .r+1      :d+1      .t        !d+1                :-        .         ||
+[A] |f        .f        :m        .r        !m                  :-        .         ||
+[T] |l        .l        :s        .s        !s                  :-        .         ||
+[B] |f        .f        :s        .s-1      !d                  :-        .         ||
+
+[1] nja_      ka        be        fi_       tia.@2                        
+
+--
+
+[$] ending={2} | jump={DCF}
+
+[S] |r+1      .r+1      :d+1      .t        !d+1                :-        .         ||
+[A] |f        .f        :m        .r        !m                  :-        .         ||
+[T] |l        .l        :s        .s        !s                  :-        .         ||
+[B] |f        .f        :s        .s-1      !d                  :-        .         ||
+
+[1] nja_      ka        be        fi_       tia.@2

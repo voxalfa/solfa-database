@@ -11,9 +11,9 @@
 ---
 
 [S] :         .s-1      ||
-[A] :         .s-1      ||
-[T] :         .s-1      ||
-[B] :         .s-1      ||
+[A] :                   ||
+[T] :                   ||
+[B] :                   ||
 
 [1] ~         I_        @@
 
@@ -300,12 +300,12 @@
 
 --
 
-[S] |t        .r        :f        .l        !`l                 :s        .s`       ||
-[A] |r        .t-1      :r        .f        !`f                 :m        .m`       ||
+[S] |t        .r        :f        .l        !`l                 :s`       .s        ||
+[A] |r        .t-1      :r        .f        !`f                 :m`       .m        ||
 [T] |s        .s        :t        .d+1      !d+1                :         .d+1      ||
 [B] |s        .s        :s        .s        !d                  :         .d        ||
 
-[1] ndri_     a_        ma_       ni_       tray,               He!       @@
+[1] ndri_     a_        ma_       ni_       tray,@2                       He!       @@
 
 --
 
@@ -351,7 +351,7 @@
 [T] |d+1                :-        .s        !d+1          .,r+1 :m+1      .s        ||
 [B] |                   :                   !                   :         .d        ||
 
-[1] nay                 I_        saora_    nay            A_   @@
+[1] nay@2                         I_        sao_           ra_  nay       A_        @@
 
 --
 

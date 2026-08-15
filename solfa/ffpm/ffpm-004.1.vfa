@@ -1,0 +1,121 @@
+;; @version 0.1.0-alpha
+
+[#] title="MAMY NY FITIANAO"
+[#] description="FFPM 4"
+[#] meter={7,7,7,7,7,7,7,7}
+[#] tags={"evangelic","ffpm"}
+[#] language="mg"
+
+[$] key={Eb} | time={4,4} | tempo={90} | voices={S,A,T,B}
+
+---
+
+[S] |m        :`s  .f`  !m        :s        ||
+[A] |d        :d        !d        :d        ||
+[T] |s        :l        !s        :m        ||
+[B] |d        :d        !d        :d        ||
+
+--
+
+[S] |d+1      :`t  .l`  !s        :-        ||
+[A] |d        :d        !d        :-        ||
+[T] |s        :f        !m        :-        ||
+[B] |m        :f        !d        :-        ||
+
+--
+
+[S] |s        :d        !f        :m        ||
+[A] |d        :d        !t-1      :d        ||
+[T] |m        :s        !s        :s        ||
+[B] |d        :m        !r        :d        ||
+
+--
+
+[S] |m        :-   .r   !r        :-        ||
+[A] |d        :-   .t-1 !t-1      :-        ||
+[T] |s        :-   .s   !s        :-        ||
+[B] |s-1      :-   .s-1 !s-1      :-        ||
+
+--
+
+[S] |m        :`s  .f`  !m        :s        ||
+[A] |d        :d        !d        :d        ||
+[T] |s        :l        !s        :m        ||
+[B] |d        :d        !d        :d        ||
+
+--
+
+[S] |d+1      :`t  .l`  !s        :-        ||
+[A] |d        :d        !d        :-        ||
+[T] |s        :f        !m        :-        ||
+[B] |m        :f        !d        :-        ||
+
+--
+
+[S] |s        :d        !f        :m        ||
+[A] |d        :d        !t-1      :d        ||
+[T] |m        :s        !s        :s        ||
+[B] |d        :m        !r        :d        ||
+
+--
+
+[S] |m        :r        !d        :-        ||
+[A] |d        :t-1      !d        :-        ||
+[T] |s        :`s  .f`  !m        :-        ||
+[B] |s-1      :s-1      !d        :-        ||
+
+--
+
+[S] |f        :m        !l        :s        ||
+[A] |d        :d        !d        :d        ||
+[T] |l        :s        !f        :s        ||
+[B] |d        :d        !l        :m        ||
+
+--
+
+[S] |t        :`l  .s`  !d+1      :-        ||
+[A] |f        :f        !m        :-        ||
+[T] |s        :`l  .t`  !d+1      :-        ||
+[B] |r        :r        !d        :-        ||
+
+--
+
+[S] |t        :l        !s        :m        ||
+[A] |d        :d        !d        :d        ||
+[T] |f        :f        !s        :s        ||
+[B] |f        :f        !m        :d        ||
+
+--
+
+[S] |s        :`f  .m`  !`m       :r`       ||
+[A] |r        :`r  .d`  !`d       :t-1`     ||
+[T] |s        :s        !s        :-        ||
+[B] |t-1      :d        !s-1      :-        ||
+
+--
+
+[S] |m        :`s  .f`  !m        :s        ||
+[A] |d        :d        !d        :r        ||
+[T] |s        :l        !s        :r        ||
+[B] |d        :d        !d        :t-1      ||
+
+--
+
+[S] |d+1      :`t  .l`  !s        :-        ||
+[A] |d        :d        !t-1      :-        ||
+[T] |m        :fi       !s        :-        ||
+[B] |l-1      :r        !s-1      :-        ||
+
+--
+
+[S] |l        :s        !f        :m        ||
+[A] |d        :d        !t-1      :d        ||
+[T] |f        :s        !s        :s        ||
+[B] |f        :m        !r        :d        ||
+
+--
+
+[S] |m        :r        !d        :-        ||
+[A] |d        :t-1      !d        :-        ||
+[T] |s        :`s  .f`  !m        :-        ||
+[B] |s-1      :s-1      !d        :-        ||

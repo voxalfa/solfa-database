@@ -3,12 +3,16 @@
 [#] title="MASINA, MASINA, MASINA"
 [#] verses={1}
 [#] description="Antema 1"
+[#] author="Sanctus"
+[#] composer="J. Camidge (1790-1859)"
 [#] tags={"antema","evangelic"}
 [#] language="mg"
 
 [$] key={Eb} | time={3,4} | tempo={70} | voices={S,A,T,B}
 
 ---
+
+[$] dynamics={p}
 
 [S] |d                  :-        .d        :d                  ||
 [A] |s-1                :-        .s        :s-1                ||
@@ -19,6 +23,8 @@
 
 --
 
+[$] dynamics={p, cre:0..6}
+
 [S] |r                  :-        .r        :r                  ||
 [A] |t-1                :-        .t-1      :t-1                ||
 [T] |s                  :-        .s        :s                  ||
@@ -26,7 +32,7 @@
 
 [1] ma@2_                         si_       na,                 @@
 
---
+<<
 
 [S] |m                  :-        .m        :m                  ||
 [A] |d                  :-        .d        :d                  ||
@@ -78,7 +84,7 @@
 [S] |`d+1               :t`                 :l                  ||
 [A] |`m                 :r`                 :`r       .d`       ||
 [T] |`d+1               :s`                 :fi                 ||
-[B] |`l-1`              :r                  :r                  ||
+[B] |`l-1               :r`                 :r                  ||
 
 [1] na@2_                                   hi_                 @@
 

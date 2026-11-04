@@ -1,7 +1,8 @@
 ;; @version 0.1.0-alpha
 
 [#] title="Ry Tanindrazanay Malala ô!"
-[#] author={"Norbert Raharisoa","Pasteur Rahajason"}
+[#] author="Norbert Raharisoa"
+[#] composer="Pasteur Rahajason"
 [#] description="The national anthem of Madagascar"
 [#] verses={1}
 [#] release={1958}

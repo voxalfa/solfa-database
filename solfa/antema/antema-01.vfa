@@ -23,7 +23,7 @@
 
 --
 
-[$] dynamics={p, cre:0..6}
+[$] dynamics={cre:0..6}
 
 [S] |r                  :-        .r        :r                  ||
 [A] |t-1                :-        .t-1      :t-1                ||

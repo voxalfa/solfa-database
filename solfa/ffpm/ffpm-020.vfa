@@ -1,5 +1,3 @@
-;; @version 0.1.0-alpha
-
 [#] title="TSAROANAY TOKOA IZAO"
 [#] author="D.O. Jones (1880-1951)"
 [#] composer="R.H. Earnshaw"
@@ -24,8 +22,9 @@
 [T] |`r       :s`       :s        |s        :-        :-        ||
 [B] |t-1      :-        :s-1      |d        :-        :-        ||
 
-==
+--
 
+[$] barline={double}
 [S] |d        :d        :t-1      |d        :-   .r   :m        ||
 [A] |d        :s-1      :s-1      |s-1      :-        :d        ||
 [T] |l        :s        :f        |`m       :-   .f`  :s        ||
@@ -52,8 +51,9 @@
 [T] |l        :-        :l        |l        :-        :-        ||
 [B] |f        :-        :m        |r        :-        :-        ||
 
-==
+--
 
+[$] barline={double}
 [S] |r        :s        :f        |m        :-        :d        ||
 [A] |t-1      :d        :r        |d        :-        :l-1      ||
 [T] |s        :s        :s        |s        :-        :f   .m   ||

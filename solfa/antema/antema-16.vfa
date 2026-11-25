@@ -1,6 +1,4 @@
-;; @version 0.1.0-alpha
-
-[#] title="ISAORANAY JEHOVAH TEMPONAY"
+[#] title="ISAORANAY JEHOVAH TOMPONAY"
 [#] description="Antema 16"
 [#] verses={1}
 [#] language="mg"
@@ -192,16 +190,21 @@
 
 [1] nay@3                                                       @@
 
-==
+--
 
-[$] key={Db} | dynamics={p}
+[$] key={Db} | barline={double} | dynamics={p}
 
 [S] :s                  ||
 [A] :m                  ||
-[T] :m                  ||
-[B] :m                  ||
 
 [1] Ny                  @@
+
+++
+
+[T] :                   ||
+[B] :                   ||
+
+[1] ~                   @@
 
 --
 
@@ -278,16 +281,16 @@
 
 [1] na_                 mbina          a_   nay.                @@
 
-==
+--
 
-[$] mark={S} | dynamics={f}
+[$] mark={S:0.5} | barline={double:0.5} | dynamics={f:0.5}
 
 [S] :         .s        ||
 [A] :         .f        ||
 [T] :         .d+1      ||
 [B] :         .d        ||
 
-[1] De_       @@
+[1] ~         De_       @@
 
 --
 

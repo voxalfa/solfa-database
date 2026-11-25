@@ -1,5 +1,3 @@
-;; @version 0.1.0-alpha
-
 [#] title="INDRO NY ARON'NY MANDANAO"
 [#] verses={1}
 [#] description="Antema 5"
@@ -181,7 +179,7 @@
 
 --
 
-[$] touches={frm:4}
+[$] touches={fermata:3}
 
 [S] |m                  :r                  !d                  :d                  ||
 [A] |d                  :s-1                !s-1                :s-1                ||
@@ -306,7 +304,7 @@
 
 --
 
-[$] touches={frm}
+[$] touches={fermata}
 
 [S] |s                  :-                  :t-1                ||
 [A] |t-1                :-                  :s-1                ||

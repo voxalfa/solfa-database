@@ -24,14 +24,15 @@ jobs:
         with:
           repository: "voxalfa/voxalfa"
           tag: "nightly"
-          fileName: "voxalfa-linux-x86_64"
+          fileName: "voxalfa-linux-x86_64.tar.gz"
           out-file-path: "./bin"
 
       - name: Setup Voxalfa Executable
         run: |
-          chmod +x ./bin/voxalfa-linux-x86_64
-          mv ./bin/voxalfa-linux-x86_64 ./bin/voxalfa
+          tar -xzf ./bin/voxalfa-linux-x86_64.tar.gz -C ./bin
+          chmod +x ./bin/voxalfa
           echo "$(pwd)/bin" >> $GITHUB_PATH
+          ./bin/voxalfa --version
 
       - name: Run Voxalfa Check
         run: voxalfa check "solfa/**/*"

@@ -25,6 +25,7 @@
 --
 
 [$] barline={double}
+
 [S] |d        :d        :t-1      |d        :-   .r   :m        ||
 [A] |d        :s-1      :s-1      |s-1      :-        :d        ||
 [T] |l        :s        :f        |`m       :-   .f`  :s        ||
@@ -54,6 +55,7 @@
 --
 
 [$] barline={double}
+
 [S] |r        :s        :f        |m        :-        :d        ||
 [A] |t-1      :d        :r        |d        :-        :l-1      ||
 [T] |s        :s        :s        |s        :-        :f   .m   ||
